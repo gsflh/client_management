@@ -47,7 +47,7 @@ This is a simple Client Management System built using **Flask**, **SQLite**, **H
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anujca/client-management-system.git
+   git clone https://github.com/gsflh/client_management.git
    cd client-management-system
    ```
 
